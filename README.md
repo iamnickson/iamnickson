@@ -21,7 +21,7 @@
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 
-- 🔭 Worked in Salesforce Technology at [Virtusa Cooporation] Sri Lanka(https://www.virtusa.com/)
+- 🔭 Worked in Salesforce Technology at [Virtusa Cooporation](https://www.virtusa.com/)
 - 📝 I regularly write articles on [https://medium.com/@himnickson](https://medium.com/@himnickson)
 - 💬 Ask me about **anything, I am happy to help**
 - ⚡ Fun fact **I think I'm funny**
