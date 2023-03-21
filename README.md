@@ -11,7 +11,7 @@
 
 <p align="center">
   <em>
-    This is ME, Nickson Joram, a <b>final year</b> undergraduate from <a href="http://www.jfn.ac.lk/"> <b>University of Jaffna</b>, Sr Lanka</a>. <br>
+    This is ME, Nickson Joram, a <b>Postgraduate student</b> reading <b>MSc Software Engineering</b> at <a href="https://www.westminster.ac.uk/"> <b>University of Westminster</b>, the United Kingdom</a>. Did <b>BSc Honours. Computer Science</b> at <a href="http://www.jfn.ac.lk/"> <b>University of Jaffna</b>, Sri Lanka</a>. <br>
     A budding <b>Salesforce Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
